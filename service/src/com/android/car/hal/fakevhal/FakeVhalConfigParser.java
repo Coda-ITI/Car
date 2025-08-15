@@ -208,7 +208,11 @@ public final class FakeVhalConfigParser {
             Map.entry("PLACEHOLDER_PROPERTY_BOOLEAN",
                     TestVendorProperty.PLACEHOLDER_PROPERTY_BOOLEAN),
             Map.entry("PLACEHOLDER_PROPERTY_STRING",
-                    TestVendorProperty.PLACEHOLDER_PROPERTY_STRING)
+                    TestVendorProperty.PLACEHOLDER_PROPERTY_STRING),
+            Map.entry("PLACEHOLDER_PROPERTY_STRING",
+                    TestVendorProperty.PLACEHOLDER_PROPERTY_STRING),
+            Map.entry("VENDOR_EXTENSION_TEST_INT_PROPERTY",TestVendorProperty.VENDOR_EXTENSION_TEST_INT_PROPERTY)
+            
     );
 
     /**
